@@ -3,7 +3,7 @@
 # .github/workflows/release.yml before anything is published. Do not edit by hand —
 # a mismatch here is the runner telling you the payload is not what was verified.
 tag v0.3.16
-a092f689f630455fad04ed91adde94be02c67738ea881fb737202fc01550a20b  cinder-home/dist/stable/cinder-home
+c9c48a9de1db96b7f09a5249b7d6131b88826b7a437ed2ecb197f8a0acf74740  cinder-home/dist/stable/cinder-home
 7788d381d609eb80dcb4db6305106dbfad4f8f0d01738022bd5c65d6f8cff7ba  cinder-home/dist/stable/cinder-umount
 f3fe97b5deacf21e6bc2079df75367468e6b4711f5aa45aae87b706f56ef6903  cinder-home/dist/stable/cinder-power
 e02071f40bc08baedbccc357b8a03782e7b95404f62f4a99f6c5974d34f17871  cinder-home/dist/stable/cinder-msc
